@@ -7,4 +7,10 @@
 ```go
 var str string = "hello"
 s[0] = 'w' //报错，cannot assign to s[0]
+/**********************/
+/*如何修改字符串呢*/
+/**********************/
+newStr := []byte(str) //转化为byte切片
+newStr[0] = 'w'
+str = string(newStr)  //再转换为string类型
 ```
