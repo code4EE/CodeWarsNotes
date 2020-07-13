@@ -1,5 +1,6 @@
 # CodeWarsNotes
-平时练习的时候总结的一些go语言的小知识点，感兴趣的可以<font color="yellow">*star*</font>支持一下<br />
+此仓库是本人平时练习的时候总结的一些go语言的小知识点，感兴趣的盆友可以:star:支持一下<br />
+<br />
 欢迎关注本人微信公众号 :point_right: go学习
 ***
 ### 目录 <br />
